@@ -7,4 +7,4 @@ Raccolta esercitazioni R e progetto finale
 L'idea è di fare un grafico che confronta le vendite dei ricambi correlate al numero
 di riparazioni, verificare l'indice di correlazione.
 
-Possibile anche fare dei Test di Ipotesi? Verificare dalla teoria
+Effettuare il test di ipotesi
